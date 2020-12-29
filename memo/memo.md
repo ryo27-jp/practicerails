@@ -12,5 +12,6 @@ git push -u origin main
 題材は簡単なので  
 ユーザー登録はdevice  
 投稿機能  
+検索機能
 
 
