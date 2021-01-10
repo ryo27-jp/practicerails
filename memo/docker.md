@@ -5,3 +5,7 @@ git flow init
 git flow feature start branch_name  
 git push origin branch_name
 
+routingの記述順について  
+
+zipメソッド  
+N+1問題
