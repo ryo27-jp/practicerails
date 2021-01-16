@@ -9,3 +9,5 @@ routingの記述順について
 
 zipメソッド  
 N+1問題
+viepress
+pundit
